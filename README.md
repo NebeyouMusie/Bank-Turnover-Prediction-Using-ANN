@@ -19,16 +19,16 @@
 ## Data Description
  - I have used the `Churn-Modelling.csv` file for the project
  - The dataset contains information like:
-   0. RowNumber         
-   1. CustomerId        
-   2. Surname         
-   3. CreditScore       
-   4. Geography       
-   5. Gender          
-   6. Age               
-   7. Tenure            
-   8. Balance          
-   9. NumOfProducts     
+  0. RowNumber         
+  1. CustomerId        
+  2. Surname         
+  3. CreditScore       
+  4. Geography       
+  5. Gender          
+  6. Age               
+  7. Tenure            
+  8. Balance          
+  9. NumOfProducts     
   10. HasCrCard         
   11. IsActiveMember    
   12. EstimatedSalary  
